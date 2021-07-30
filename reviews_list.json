@@ -1,0 +1,34 @@
+{
+	"workers": [
+	{
+		"name": "Григорий Голобородько",
+		"photo": "http://miniairconditioners.ru/assets/images/jpeg-75ds86f79sdf.png",
+		"text": "Рекомендую. Отличный сайт. "
+	}, 
+	{
+		"name": "Жора",
+		"photo": "http://miniairconditioners.ru/assets/images/72349760.png",
+		"text": "Отличный сайт. Рекомендую дважды."
+	}, 
+	{
+		"name": "Евгений",
+		"photo": "http://miniairconditioners.ru/assets/images/jpeg-5698sad79f.png",
+		"text": "Королитное место без адекватной инфраструктуры. Фотографии классные."
+	}, 
+	{
+		"name": "Степан Ефремов",
+		"photo": "http://miniairconditioners.ru/assets/images/jpeg-68sa9dsd97.png",
+		"text": "Была дважды, оба раза в составе организованных экскурсий. В 2007, кажется, и где-то в 2010. То есть, мы приехали, покатались по местам, пообедали и назад. Фото со стульями есть, ага)) и с пагодой)"
+	},
+	{
+		"name": "Влад Керосин",
+		"photo": "./assets/Pr1CzJSm_400x400.jpg",
+		"text": "Город интересный, но жаль, что инфраструктура не развита."
+	},
+	{
+		"name": "Валерий Корин",
+		"photo": "./assets/avatar-bitcoin.jpg",
+		"text": "Толком ничего не знала об этом городе, спасибо за статью!"
+	}
+	]
+}

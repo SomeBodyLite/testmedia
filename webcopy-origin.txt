@@ -1,0 +1,636 @@
+Uri: https://instantpay.top/
+File Name: C:\Downloaded Web Sites\instantpay.top\index.htm
+Content Type: text/html
+
+Uri: https://instantpay.top/assets/m2.css
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\m2.css
+Content Type: text/css
+
+Uri: https://instantpay.top/assets/main-branding-base.css
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\main-branding-base.css
+Content Type: text/css
+
+Uri: https://instantpay.top/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico
+File Name: C:\Downloaded Web Sites\instantpay.top\_\fp\icons\favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico
+Content Type: image/x-icon
+
+Uri: https://instantpay.top/fit/c/136/136/18I-HPL0bfoIzGied-dzOvA.png
+File Name: C:\Downloaded Web Sites\instantpay.top\fit\c\136\136\18I-HPL0bfoIzGied-dzOvA.png
+Content Type: image/png
+
+Uri: https://instantpay.top/fit/c/107/107/18I-HPL0bfoIzGied-dzOvA.png
+File Name: C:\Downloaded Web Sites\instantpay.top\fit\c\107\107\18I-HPL0bfoIzGied-dzOvA.png
+Content Type: image/png
+
+Uri: https://instantpay.top/fit/c/68/68/18I-HPL0bfoIzGied-dzOvA.png
+File Name: C:\Downloaded Web Sites\instantpay.top\fit\c\68\68\18I-HPL0bfoIzGied-dzOvA.png
+Content Type: image/png
+
+Uri: https://instantpay.top/fit/c/54/54/18I-HPL0bfoIzGied-dzOvA.png
+File Name: C:\Downloaded Web Sites\instantpay.top\fit\c\54\54\18I-HPL0bfoIzGied-dzOvA.png
+Content Type: image/png
+
+Uri: https://instantpay.top/_/fp/icons/monogram-mask.KPLCSFEZviQN0jQ7veN2RQ.svg
+File Name: C:\Downloaded Web Sites\instantpay.top\_\fp\icons\monogram-mask.KPLCSFEZviQN0jQ7veN2RQ.svg
+Content Type: image/svg+xml
+
+Uri: https://instantpay.top/profile/06941916716624837130.html
+File Name: C:\Downloaded Web Sites\instantpay.top\profile\06941916716624837130.html
+Content Type: text/html
+
+Uri: https://medium.com/membership?source=upgrade_membership---nav_full
+File Name: C:\Downloaded Web Sites\instantpay.top\membership.html
+Content Type: text/html
+
+Uri: https://medium.com/m/signin?redirect=https:%2F%2Fmedium.com%2F%40Natalixxxx98%2Fmcafee-crypto-extravaganza-btc-and-eth-airdrop-promo-d0f0afa4999f&source=--------------------------nav_reg&operation=login
+File Name: C:\Downloaded Web Sites\instantpay.top\m\signin.html
+Content Type: text/html
+
+Uri: https://medium.com/m/signin?redirect=https:%2F%2Fmedium.com%2F%40Natalixxxx98%2Fmcafee-crypto-extravaganza-btc-and-eth-airdrop-promo-d0f0afa4999f&source=--------------------------nav_reg&operation=register
+File Name: C:\Downloaded Web Sites\instantpay.top\m\signin-1.html
+Content Type: text/html
+
+Uri: https://medium.com/
+File Name: C:\Downloaded Web Sites\instantpay.top\index-1.htm
+Content Type: text/html
+
+Uri: https://instantpay.top/btc/index.htm
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\index.htm
+Content Type: text/html
+
+Uri: https://instantpay.top/eth/index.htm
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\index.htm
+Content Type: text/html
+
+Uri: https://instantpay.top/doge/index.htm
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\index.htm
+Content Type: text/html
+
+Uri: https://medium.com/@ThisIsKlinger
+File Name: C:\Downloaded Web Sites\instantpay.top\@ThisIsKlinger.html
+Content Type: text/html
+
+Uri: https://instantpay.top/index.htm
+File Name: C:\Downloaded Web Sites\instantpay.top\index-3.htm
+Content Type: text/html
+
+Uri: https://medium.com/@Medium/personalize-your-medium-experience-with-users-publications-tags-26a41ab1ee0c
+File Name: C:\Downloaded Web Sites\instantpay.top\@Medium\personalize-your-medium-experience-with-users-publications-tags-26a41ab1ee0c.html
+Content Type: text/html
+
+Uri: https://instantpay.top/assets/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\jquery-3.4.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://instantpay.top/profile_images/1363228426094538754/3ncXqbh-_400x400.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\profile_images\1363228426094538754\3ncXqbh-_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/x3KGk7t.jpg?2
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\x3KGk7t.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/profile_images/1245646911530385416/pXvMgIpb_400x400.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\profile_images\1245646911530385416\pXvMgIpb_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/profile_images/1337776178191618049/qdAGHh9d_400x400.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\profile_images\1337776178191618049\qdAGHh9d_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/aVq2oAP-_normal.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\aVq2oAP-_normal.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/a3a234d295e0a5824b856d5ddf228d0c_bigger.jpeg
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\a3a234d295e0a5824b856d5ddf228d0c_bigger.jpeg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/avatar-bitcoin.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\avatar-bitcoin.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/pTlu6wrD_400x400.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\pTlu6wrD_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/VItKwBD2_400x400.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\VItKwBD2_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/Pr1CzJSm_400x400.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\Pr1CzJSm_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/assets/images
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\images
+Content Type: 
+
+Uri: https://instantpay.top/assets/Nick-Chong_avatar_1590116314-200x200.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\assets\Nick-Chong_avatar_1590116314-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/font/81d2bf1/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-400-italic.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\81d2bf1\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\charter-400-italic.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/81d2bf1/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-italic.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\81d2bf1\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-400-italic.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/be78681/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\be78681\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-400-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/77a0c0c/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-italic.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\77a0c0c\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\charter-700-italic.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/77a0c0c/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-italic.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\77a0c0c\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-700-italic.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/f50d520/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\f50d520\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\charter-700-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/f50d520/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\f50d520\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-700-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/78ce731/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/fell-400-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\78ce731\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\fell-400-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/78ce731/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/fell-400-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\78ce731\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\fell-400-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/24e0824/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/marat-sans-300-italic.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\24e0824\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\marat-sans-300-italic.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/24e0824/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/marat-sans-300-italic.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\24e0824\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\marat-sans-300-italic.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/d8659c9/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/marat-sans-400-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\d8659c9\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\marat-sans-400-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/6f4b679/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/marat-sans-600-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\6f4b679\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\marat-sans-600-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/b6752aa/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/noe-display-500-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\b6752aa\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\noe-display-500-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/font/b6752aa/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/noe-display-500-normal.woff
+File Name: C:\Downloaded Web Sites\instantpay.top\font\b6752aa\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\noe-display-500-normal.woff
+Content Type: application/font-woff
+
+Uri: https://instantpay.top/_/fp/img/payments/credit-card-sprite.aNIJTodZTkf86-MUkQX7Xw.png
+File Name: C:\Downloaded Web Sites\instantpay.top\_\fp\img\payments\credit-card-sprite.aNIJTodZTkf86-MUkQX7Xw.png
+Content Type: image/png
+
+Uri: https://instantpay.top/_/fp/img/audio/audio-inactive.JUSjk6tbAM3TXmspwm4Gtw.png
+File Name: C:\Downloaded Web Sites\instantpay.top\_\fp\img\audio\audio-inactive.JUSjk6tbAM3TXmspwm4Gtw.png
+Content Type: image/png
+
+Uri: https://instantpay.top/_/fp/img/audio/audio-hover.S-Szx-93nxoBi0c2-rykUQ.png
+File Name: C:\Downloaded Web Sites\instantpay.top\_\fp\img\audio\audio-hover.S-Szx-93nxoBi0c2-rykUQ.png
+Content Type: image/png
+
+Uri: https://instantpay.top/_/fp/img/audio/audio-active.4GSkS4zw9tXS7CDfabsViQ.png
+File Name: C:\Downloaded Web Sites\instantpay.top\_\fp\img\audio\audio-active.4GSkS4zw9tXS7CDfabsViQ.png
+Content Type: image/png
+
+Uri: https://fonts.gstatic.com/s/materialiconsextended/v87/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvM.ttf
+File Name: C:\Downloaded Web Sites\instantpay.top\s\materialiconsextended\v87\kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.googleapis.com/css?lang=en&family=Product+Sans|Roboto:400,700
+File Name: C:\Downloaded Web Sites\instantpay.top\css.css
+Content Type: text/css
+
+Uri: https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg
+File Name: C:\Downloaded Web Sites\instantpay.top\images\branding\googlelogo\svg\googlelogo_clr_74x24px.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_light_clr_74x24px.svg
+File Name: C:\Downloaded Web Sites\instantpay.top\images\branding\googlelogo\svg\googlelogo_light_clr_74x24px.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_dark_clr_74x24px.svg
+File Name: C:\Downloaded Web Sites\instantpay.top\images\branding\googlelogo\svg\googlelogo_dark_clr_74x24px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300
+File Name: C:\Downloaded Web Sites\instantpay.top\css-1.css
+Content Type: text/css
+
+Uri: https://www.google.com/css/maia.css
+File Name: C:\Downloaded Web Sites\instantpay.top\css\maia.css
+Content Type: text/css
+
+Uri: https://www.blogger.com/static/v1/v-css/281434096-static_pages.css
+File Name: C:\Downloaded Web Sites\instantpay.top\static\v1\v-css\281434096-static_pages.css
+Content Type: text/css
+
+Uri: https://www.blogger.com/static/v1/v-css/3896558673-new_ui_static_pages.css
+File Name: C:\Downloaded Web Sites\instantpay.top\static\v1\v-css\3896558673-new_ui_static_pages.css
+Content Type: text/css
+
+Uri: https://www.google.com/webhp?tab=jw
+File Name: C:\Downloaded Web Sites\instantpay.top\webhp.html
+Content Type: text/html
+
+Uri: https://maps.google.com/maps?hl=en&tab=jl
+File Name: C:\Downloaded Web Sites\instantpay.top\maps.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/?gl=US&tab=j1
+File Name: C:\Downloaded Web Sites\instantpay.top\index-4.htm
+Content Type: text/html
+
+Uri: https://translate.google.com/?hl=en&tab=jT
+File Name: C:\Downloaded Web Sites\instantpay.top\index-5.htm
+Content Type: text/html
+
+Uri: https://www.google.com/chrome/?brand=CHZO&utm_source=google.com&utm_medium=desktop-app-launcher&utm_campaign=desktop-app-launcher&utm_content=chrome-logo&utm_keyword=CHZO
+File Name: C:\Downloaded Web Sites\instantpay.top\chrome\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/shopping?hl=en&source=og&tab=jf
+File Name: C:\Downloaded Web Sites\instantpay.top\shopping.html
+Content Type: text/html
+
+Uri: https://books.google.com/?hl=en&tab=jp
+File Name: C:\Downloaded Web Sites\instantpay.top\index-6.htm
+Content Type: text/html
+
+Uri: https://hangouts.google.com/
+File Name: C:\Downloaded Web Sites\instantpay.top\index-7.htm
+Content Type: text/html
+
+Uri: https://earth.google.com/web/
+File Name: C:\Downloaded Web Sites\instantpay.top\web\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/save
+File Name: C:\Downloaded Web Sites\instantpay.top\save.html
+Content Type: text/html
+
+Uri: https://artsandculture.google.com/?hl=en&utm_source=ogs.google.com&utm_medium=referral
+File Name: C:\Downloaded Web Sites\instantpay.top\index-8.htm
+Content Type: text/html
+
+Uri: https://ads.google.com/home/?subid=ww-ww-et-g-aw-a-vasquette_ads_cons_1!o2
+File Name: C:\Downloaded Web Sites\instantpay.top\home\index.htm
+Content Type: text/html
+
+Uri: https://podcasts.google.com/
+File Name: C:\Downloaded Web Sites\instantpay.top\index-9.htm
+Content Type: text/html
+
+Uri: https://stadia.google.com/
+File Name: C:\Downloaded Web Sites\instantpay.top\index-10.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?service=blogger&continue=https://draft.blogger.com/blogger.g&ec=GAZAHg
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-8.html
+Content Type: text/html
+
+Uri: https://www.blogger.com/static/v1/v-app/scripts/187150647-common.js
+File Name: C:\Downloaded Web Sites\instantpay.top\static\v1\v-app\scripts\187150647-common.js
+Content Type: text/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\Downloaded Web Sites\instantpay.top\analytics.js
+Content Type: text/javascript
+
+Uri: https://www.blogger.com/static/v1/jsbin/3101730221-analytics_autotrack.js
+File Name: C:\Downloaded Web Sites\instantpay.top\static\v1\jsbin\3101730221-analytics_autotrack.js
+Content Type: text/javascript
+
+Uri: https://draft.blogger.com/img/blogger-logotype-color-black-1x.png
+File Name: C:\Downloaded Web Sites\instantpay.top\img\blogger-logotype-color-black-1x.png
+Content Type: image/png
+
+Uri: https://draft.blogger.com/img/avatar_blue_m_96.png
+File Name: C:\Downloaded Web Sites\instantpay.top\img\avatar_blue_m_96.png
+Content Type: image/png
+
+Uri: https://www.blogger.com/static/v1/jsbin/1014802791-base.js
+File Name: C:\Downloaded Web Sites\instantpay.top\static\v1\jsbin\1014802791-base.js
+Content Type: text/javascript
+
+Uri: https://draft.blogger.com/img/blogger-logotype-color-black-2x.png
+File Name: C:\Downloaded Web Sites\instantpay.top\img\blogger-logotype-color-black-2x.png
+Content Type: image/png
+
+Uri: https://instantpay.top/icon/free/png-512/tesla-11-569489.png
+File Name: C:\Downloaded Web Sites\instantpay.top\icon\free\png-512\tesla-11-569489.png
+Content Type: image/png
+
+Uri: https://instantpay.top/btc/content/asPieProgress.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\asPieProgress.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/btc/content/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/btc/content/style.css
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\style.css
+Content Type: text/css
+
+Uri: https://instantpay.top/btc/content/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/btc/content/logo.png
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\logo.png
+Content Type: image/png
+
+Uri: https://instantpay.top/btc/content/v2wAeeE.png
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\v2wAeeE.png
+Content Type: image/png
+
+Uri: https://instantpay.top/btc/content/copy.svg
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://instantpay.top/btc/content/clipboard.js
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\clipboard.js
+Content Type: application/x-javascript
+
+Uri: https://instantpay.top/btc/content/Bitcoin_QR.png?4
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\Bitcoin_QR.png
+Content Type: image/png
+
+Uri: https://instantpay.top/jquery-min/4.2.0/content/jquery.min1.js
+File Name: C:\Downloaded Web Sites\instantpay.top\jquery-min\4.2.0\content\jquery.min1.js
+Content Type: application/x-javascript
+
+Uri: https://instantpay.top/btc/content/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\circle-progress.min.js
+Content Type: application/x-javascript
+
+Uri: https://instantpay.top/eth/content/asPieProgress.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\asPieProgress.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/eth/content/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/eth/content/style.css
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\style.css
+Content Type: text/css
+
+Uri: https://instantpay.top/eth/content/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/eth/content/logo.png
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\logo.png
+Content Type: image/png
+
+Uri: https://instantpay.top/eth/content/v2wAeeE.png
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\v2wAeeE.png
+Content Type: image/png
+
+Uri: https://instantpay.top/eth/content/copy.svg
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://instantpay.top/eth/content/clipboard.js
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\clipboard.js
+Content Type: application/x-javascript
+
+Uri: https://instantpay.top/eth/content/Bitcoin_QR.png?4
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\Bitcoin_QR.png
+Content Type: image/png
+
+Uri: https://instantpay.top/eth/content/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\circle-progress.min.js
+Content Type: application/x-javascript
+
+Uri: https://instantpay.top/doge/content/asPieProgress.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\asPieProgress.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/doge/content/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/doge/content/style.css
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\style.css
+Content Type: text/css
+
+Uri: https://instantpay.top/doge/content/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://instantpay.top/doge/content/logo.png
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\logo.png
+Content Type: image/png
+
+Uri: https://instantpay.top/doge/content/v2wAeeE.png
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\v2wAeeE.png
+Content Type: image/png
+
+Uri: https://instantpay.top/doge/content/copy.svg
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://instantpay.top/doge/content/clipboard.js
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\clipboard.js
+Content Type: application/x-javascript
+
+Uri: https://instantpay.top/doge/content/Bitcoin_QR.png?4
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\Bitcoin_QR.png
+Content Type: image/png
+
+Uri: https://instantpay.top/doge/content/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\circle-progress.min.js
+Content Type: application/x-javascript
+
+Uri: https://cryptorand.medium.com/
+File Name: C:\Downloaded Web Sites\instantpay.top\index-2.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://draft.blogger.com/blog/posts/_&followup=https://draft.blogger.com/blog/posts/_
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://about.google/intl/en/products/?tab=jh
+File Name: C:\Downloaded Web Sites\instantpay.top\intl\en\products\index.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://myaccount.google.com/general-light&followup=https://myaccount.google.com/general-light
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-1.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps?hl=en&tab=jl
+File Name: C:\Downloaded Web Sites\instantpay.top\maps-1.html
+Content Type: text/html
+
+Uri: https://play.google.com/store?hl=en&tab=j8
+File Name: C:\Downloaded Web Sites\instantpay.top\store.html
+Content Type: text/html
+
+Uri: https://news.google.com/topstories?tab=jn&hl=ru&gl=UA&ceid=UA:ru
+File Name: C:\Downloaded Web Sites\instantpay.top\topstories.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?tab%3Djm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-2.html
+Content Type: text/html
+
+Uri: https://apps.google.com/meet/?hs=197
+File Name: C:\Downloaded Web Sites\instantpay.top\meet\index.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://contacts.google.com/?hl%3Den%26tab%3DjC&followup=https://contacts.google.com/?hl%3Den%26tab%3DjC&hl=en
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-3.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/?tab%3Djo&followup=https://drive.google.com/?tab%3Djo&emr=1
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-4.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&osid=1&continue=https://calendar.google.com/calendar/render?tab%3Djc&followup=https://calendar.google.com/calendar/render?tab%3Djc&scc=1
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-5.html
+Content Type: text/html
+
+Uri: https://www.google.com/photos/about/
+File Name: C:\Downloaded Web Sites\instantpay.top\photos\about\index.htm
+Content Type: text/html
+
+Uri: https://duo.google.com/about/?usp=duo_ald
+File Name: C:\Downloaded Web Sites\instantpay.top\about\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/finance/?tab=je
+File Name: C:\Downloaded Web Sites\instantpay.top\finance\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/docs/about/
+File Name: C:\Downloaded Web Sites\instantpay.top\docs\about\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/sheets/about/
+File Name: C:\Downloaded Web Sites\instantpay.top\sheets\about\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/slides/about/
+File Name: C:\Downloaded Web Sites\instantpay.top\slides\about\index.htm
+Content Type: text/html
+
+Uri: https://www.blogger.com/about/?tab=jj&bpli=1
+File Name: C:\Downloaded Web Sites\instantpay.top\about\index-1.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://keep.google.com/&followup=https://keep.google.com/&ltmpl=keep
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-6.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?service=jamboardcore&passive=1209600&continue=https://jamboard.google.com/?usp%3Djam_ald&followup=https://jamboard.google.com/?usp%3Djam_ald
+File Name: C:\Downloaded Web Sites\instantpay.top\ServiceLogin-7.html
+Content Type: text/html
+
+Uri: https://support.google.com/blogger/?p=help_home&hl=ru&authuser
+File Name: C:\Downloaded Web Sites\instantpay.top\blogger\index.htm
+Content Type: text/html
+
+Uri: https://productforums.google.com/forum/?authuser
+File Name: C:\Downloaded Web Sites\instantpay.top\forum\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/user/BloggerHelp?hl=ru
+File Name: C:\Downloaded Web Sites\instantpay.top\user\BloggerHelp.html
+Content Type: text/html
+
+Uri: https://blogger.googleblog.com/
+File Name: C:\Downloaded Web Sites\instantpay.top\index-11.htm
+Content Type: text/html
+
+Uri: https://developers.google.com/blogger/?hl=ru&authuser
+File Name: C:\Downloaded Web Sites\instantpay.top\blogger\index-1.htm
+Content Type: text/html
+
+Uri: https://groups.google.com/forum/?hl=ru&authuser
+File Name: C:\Downloaded Web Sites\instantpay.top\forum\index-1.htm
+Content Type: text/html
+
+Uri: https://www.google.com/intl/ru/policies/terms/?authuser
+File Name: C:\Downloaded Web Sites\instantpay.top\intl\ru\policies\terms\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/intl/ru/policies/privacy/?authuser
+File Name: C:\Downloaded Web Sites\instantpay.top\intl\ru\policies\privacy\index.htm
+Content Type: text/html
+
+Uri: https://draft.blogger.com/content.g?hl=ru&authuser
+File Name: C:\Downloaded Web Sites\instantpay.top\content.g.html
+Content Type: text/html
+
+Uri: https://draft.blogger.com/content.g?hl=ru&authuser&bpli=1
+File Name: C:\Downloaded Web Sites\instantpay.top\content.g-1.html
+Content Type: text/html
+
+Uri: https://instantpay.top/css2.css
+File Name: C:\Downloaded Web Sites\instantpay.top\css2.css
+Content Type: text/css
+
+Uri: https://instantpay.top/btc/content/bg.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/btc/content/check.png
+File Name: C:\Downloaded Web Sites\instantpay.top\btc\content\check.png
+Content Type: image/png
+
+Uri: https://instantpay.top/eth/content/bg.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/eth/content/check.png
+File Name: C:\Downloaded Web Sites\instantpay.top\eth\content\check.png
+Content Type: image/png
+
+Uri: https://instantpay.top/doge/content/bg.jpg
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://instantpay.top/doge/content/check.png
+File Name: C:\Downloaded Web Sites\instantpay.top\doge\content\check.png
+Content Type: image/png
+
+Uri: https://fonts.gstatic.com/s/exo2/v10/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPg.ttf
+File Name: C:\Downloaded Web Sites\instantpay.top\s\exo2\v10\7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v10/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPg.ttf
+File Name: C:\Downloaded Web Sites\instantpay.top\s\exo2\v10\7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v10/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+File Name: C:\Downloaded Web Sites\instantpay.top\s\exo2\v10\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v10/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+File Name: C:\Downloaded Web Sites\instantpay.top\s\exo2\v10\7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v10/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf
+File Name: C:\Downloaded Web Sites\instantpay.top\s\exo2\v10\7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v10/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf
+File Name: C:\Downloaded Web Sites\instantpay.top\s\exo2\v10\7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf
+Content Type: font/ttf
+
